@@ -1,6 +1,6 @@
 :root {
     --temple-red-dark: rgb(136, 24, 45);
-    --bs-primary: #88182d;
+    --bs-primary: #e7a84b;
     --bs-primary-rgb: 158, 27, 52;
     --bs-primary-dark: #721426;
     --bs-primary-dark-rgb: 136, 24, 35;
@@ -9,7 +9,7 @@
 
 .btn-primary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #88182d;
+    --bs-btn-bg: #5641c1;
     --bs-btn-border-color: #88182d;
     --bs-btn-hover-color: #fff;
     --bs-btn-hover-bg: #721426;
